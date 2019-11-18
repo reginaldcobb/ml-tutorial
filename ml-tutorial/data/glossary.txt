@@ -1,0 +1,25 @@
+GP Games Played
+W Wins
+L Losses
+MIN Minutes Played
+OPP FGM Opponent's Field Goals Made
+OPP FGA Opponent's Field Goals Attempted
+OPP FG% Opponent's Field Goal Percentage
+OPP 3PM Opponent's 3 Point Field Goals Made
+OPP 3PA Opponent's 3 Point Field Goals Attempted
+OPP 3P% Opponent's 3 Point Field Goal Percentage
+OPP FTM Opponent's Free Throws Made
+OPP FTA Opponent's Free Throws Attempted
+OPP FT% Opponent's Free Throw Percentage
+OPP OREB Opponent's Offensive Rebounds
+OPP DREB Opponent's Defensive Rebounds
+OPP REB Opponent's Rebounds
+OPP AST Opponent's Assists
+OPP TOV Opponent's Turnovers
+OPP STL Opponent's Steals
+OPP BLK Opponent's Blocks
+OPP BLKA Opponent's Blocked Field Goal Attempts
+OPP PF Opponent's Personal Fouls
+OPP PFD Opponent's Personal Drawn
+OPP PTS Opponent's Points
++/- Opponent's Plus/Minus
